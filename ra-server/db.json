@@ -690,6 +690,16 @@
       "description": "An apricot tree in full bloom.",
       "stock": 31,
       "sales": 7
+    },
+    {
+      "id": "9843133216",
+      "category_id": 3,
+      "title": "Test",
+      "width": 420,
+      "height": 540,
+      "price": 500,
+      "stock": null,
+      "sales": null
     }
   ]
 }
